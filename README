@@ -1,0 +1,7 @@
+Connection to the database requires a .env file, env.example file can be used as a template
+
+To setup the database table interface run:
+python -m database.setup
+
+To run the storing process of desired interfaces run:
+python -m script
